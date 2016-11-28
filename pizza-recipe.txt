@@ -1,0 +1,9 @@
+Ingredients:
+ - phone
+ - money
+ - 30 to 60 minutes
+
+Directions:
+  1. Call to pizza delivery
+  2. Place order
+  3. Wait for 30 to 60 minutes
